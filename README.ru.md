@@ -1,25 +1,25 @@
-# 👋 Hi there!
+# 👋 Приветствую!
 
-Welcome to my GitHub profile.
-This page is available in multiple languages:
+Добро пожаловать на просторы моего профиля GitHub.
+Эта страница доступна на нескольких языках:
 
-- 🇷🇺 [Русский](./README.ru.md)
+- 🇬🇧 [English](./README.md)
 
-## Projects
+## Проекты
 
-- [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — A small game development studio with a focus on big gaming experiences.
-- [CUZUS.NET (2017)](https://cuzus.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Old-school Gaming Community | Online Servers | Killing Floor, Lineage 2, Counter-Strike, Half-Life, Grand Theft Auto, Warcraft 3, and many more.
-- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/amxmodx-plugins/-/tree/main/line-strike?ref_type=heads) — Unique modification that combines the worlds of Lineage 2 and Counter-Strike 1.6.
+- [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Небольшая студия разработки игр, ориентированная на создание увлекательных проектов.
+- [CUZUS.NET (2017)](https://cuzus.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Сообщество Любителей Старых Игр | Игровые Сервера | Killing Floor, Lineage 2, Counter-Strike, Half-Life, Grand Theft Auto, Warcraft 3, и многие другие.
+- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/amxmodx-plugins/-/tree/main/line-strike?ref_type=heads) — Уникальная модификация, объединяющая миры Lineage 2 и Counter-Strike 1.6.
 
-## Support Me
+## Поддержите Меня
 
-Credit/Debit
+Кредит/Дебет
 
 - [BuyMeACoffee](https://buymeacoffee.com/geekrainian)
 - [Ko-Fi](https://ko-fi.com/geekrainian)
 - [Liberapay](https://liberapay.com/geekrainian)
 
-Crypto
+Крипта
 
 - BTC `bc1qcs6jsqe98kjc35lr7u4ygvtqsm03eq2u89sx79`
 - ETH / USDT (ERC20) `0x892BCBa6c5E682F240cfB45F38dd7CCffaaa8C0a`
@@ -27,11 +27,11 @@ Crypto
 - TON `UQBoio7TGarXjm6gxoQwK2J6y2BzNJ5FJumOCjVwwpoVVyTp`
 - DOGE `DKJoQxa1oV7ST9YvWm6TbHvd2U7gd3KQeL`
 
-## My Hardware
+## Мое Железо
 
 <details>
 
-<summary>Main</summary>
+<summary>Основное</summary>
 
 - `$1,400` Lenovo Legion 5 15ACH6
   - Microsoft Windows 10 Pro
@@ -53,7 +53,7 @@ Crypto
 
 <details>
 
-<summary>Home cinema</summary>
+<summary>Домашний кинотеатр</summary>
 
 - [Philips 325E8 32'' IPS LCD, QHD 2560x1440](https://www.amazon.ca/dp/B09CLPGS4D)
 - [Logitech z150 Multimedia Speakers](https://www.amazon.ca/dp/B00EZ9XLEY)
@@ -66,7 +66,7 @@ Crypto
 
 <details>
 
-<summary>Comfort</summary>
+<summary>Комфорт</summary>
 
 - [Autonomous Smart Desk](https://www.autonomous.ai/standing-desks/autonomous-desk-eureka)
 - `620$` [Autonomous ErgoChair Mesh](https://www.autonomous.ai/en-CA/office-chairs/ergochair-mesh)
@@ -82,7 +82,7 @@ Crypto
 
 <details>
 
-<summary>Misc</summary>
+<summary>Прочее</summary>
 
 - [Apple AirPods (3rd Generation)](https://www.amazon.ca/dp/B0BDHB9Y8H)
 - [Global Version Xiaomi Mi Band 8](https://www.aliexpress.com/item/1005006084713991.html)
