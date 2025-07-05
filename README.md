@@ -31,7 +31,7 @@ Crypto
 
 <details>
 
-<summary>Main</summary>
+<summary>Main PC</summary>
 
 - `$1,400` Lenovo Legion 5 15ACH6
   - Microsoft Windows 10 Pro
@@ -53,7 +53,7 @@ Crypto
 
 <details>
 
-<summary>Home cinema</summary>
+<summary>Home TV</summary>
 
 - [Philips 325E8 32'' IPS LCD, QHD 2560x1440](https://www.amazon.ca/dp/B09CLPGS4D)
 - [Logitech z150 Multimedia Speakers](https://www.amazon.ca/dp/B00EZ9XLEY)
@@ -100,3 +100,33 @@ Crypto
 - [100W USB Type-C Cable 7A Super-Fast Charge](https://www.aliexpress.com/item/1005004351959454.html)
 
 </details>
+
+<details>
+
+<summary>Old PC (2011)</summary>
+
+- `93$` ATX Chieftec CFT-650-14CS 650W 14sм FAN
+- `157$` ASUSTek P8Z68-V LE S1155 Z68 DDR3 vid SATA3 7.1 L1G ATX
+- `313$` Intel Core i7-2600 3.4GHz 8Mb LGA1155 95W BOX
+- `125$` ASUSTeK ENGTS450/DI/1GD5 1Gb GDDR5 PCI-E RTL
+- `36$` DDR3-1600 4069Mb Kingmax PC12800(FLGF65F)
+- `113$` 2.5" SSD OCZ Agility 3 SATA3 MLC 60Gb
+- `73$` WesternDigital WD10EALX 1Tb SATA3 7200rpm 32Mb Caviar Blue
+- `108$` Case AEROCOOL Cyborg-X Black
+
+</details>
+
+## Broken Memories
+
+In memory of the vibe of 2000s forums.
+
+![](./media/proshel_test_nyb.jpg)
+![](./media/proshel_test_nenyb.jpg)
+![](./media/proshel_test_otec.jpg)
+![](./media/ub_lineage2_1.png)
+![](./media/ub_lineage2_2.png)
+![](./media/ub_l2walker.jpg)
+![](./media/ub_counterstrike.jpg)
+![](./media/blablahand_2008-dec-16.gif) ![](./media/dontsmoke_2013-dec-10.gif)
+![](./media/asciiwalk.gif) ![](./media/composer_2007-mar-17.gif)
+![](./media/masyanya.jpg)
