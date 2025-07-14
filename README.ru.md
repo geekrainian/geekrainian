@@ -120,13 +120,8 @@
 
 В память о вайбе форумов 2000-х.
 
-![](./media/proshel_test_nyb.jpg)
-![](./media/proshel_test_nenyb.jpg)
-![](./media/proshel_test_otec.jpg)
-![](./media/ub_lineage2_1.png)
-![](./media/ub_lineage2_2.png)
-![](./media/ub_l2walker.jpg)
-![](./media/ub_counterstrike.jpg)
-![](./media/blablahand_2008-dec-16.gif) ![](./media/dontsmoke_2013-dec-10.gif)
-![](./media/asciiwalk.gif) ![](./media/composer_2007-mar-17.gif)
+![](./media/ub_lineage2_1.png)  
+![](./media/ub_lineage2_2.png)  
+![](./media/ub_l2walker.jpg)  
+![](./media/ub_counterstrike.jpg)  
 ![](./media/masyanya.jpg)
