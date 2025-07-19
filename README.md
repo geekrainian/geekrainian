@@ -116,12 +116,6 @@ Crypto
 
 </details>
 
-## Broken Memories
+---
 
-In memory of the vibe of 2000s forums.
-
-![](./media/ub_lineage2_1.png)  
-![](./media/ub_lineage2_2.png)  
-![](./media/ub_l2walker.jpg)  
-![](./media/ub_counterstrike.jpg)  
 ![](./media/masyanya.jpg)

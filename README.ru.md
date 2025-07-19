@@ -116,12 +116,6 @@
 
 </details>
 
-## Осколки Прошлого
+---
 
-В память о вайбе форумов 2000-х.
-
-![](./media/ub_lineage2_1.png)  
-![](./media/ub_lineage2_2.png)  
-![](./media/ub_l2walker.jpg)  
-![](./media/ub_counterstrike.jpg)  
 ![](./media/masyanya.jpg)
