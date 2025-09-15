@@ -8,7 +8,7 @@
 ## Проекты
 
 - [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Независимый разработчик и издатель игр.
-- [CUZUS.NET (2017)](https://cuzus.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Сообщество Любителей Старых Игр и Онлайн Сервера.
+- [CUZUS.NET (2017)](https://cuzus.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Сообщество Любителей Старых Игр и Игровые Сервера.
 - [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/amxmodx-plugins/-/tree/main/line-strike?ref_type=heads) — Модификация для Counter-Strike 1.6, которая внедряет множество механик и контент из игры Lineage 2.
 
 ## Поддержите Меня
