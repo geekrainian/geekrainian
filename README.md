@@ -1,5 +1,11 @@
 # 👋 Hi there!
 
+```
+Geekr\a/inian
+      |
+     /'\
+```
+
 Welcome to my GitHub profile.
 This page is available in multiple languages:
 
@@ -115,7 +121,3 @@ Crypto
 - `108$` Case AEROCOOL Cyborg-X Black
 
 </details>
-
----
-
-![](./media/masyanya.jpg)
