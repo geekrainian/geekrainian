@@ -13,9 +13,9 @@ Geekr\a/inian
 
 ## Проекты
 
-- [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Независимый разработчик и издатель игр.
-- [CUZUS.NET (2017)](https://cuzus.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Сообщество Любителей Старых Игр и Игровые Сервера.
-- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/line-strike) — Модификация для Counter-Strike 1.6, которая внедряет множество механик и контент из игры Lineage 2.
+- [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Независимая игровая студия.
+- [KILLINGFLOOR.NET (2015)](https://killingfloor.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Сообщество по игре Killing Floor.
+- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/line-strike) — Клиент-серверная модификация для игры Counter-Strike 1.6.
 
 ## Поддержите Меня
 

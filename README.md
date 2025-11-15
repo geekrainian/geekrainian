@@ -13,9 +13,9 @@ This page is available in multiple languages:
 
 ## Projects
 
-- [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — An independent game developer and publisher.
-- [CUZUS.NET (2017)](https://cuzus.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Retro Gaming Community and Online Game Servers.
-- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/line-strike) — A Counter-Strike 1.6 mod that adds numerous features and content from Lineage 2 game.
+- [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — An independent game studio.
+- [KILLINGFLOOR.NET (2015)](https://killingfloor.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Killing Floor Game Community.
+- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/line-strike) — Client-server modification for Counter-Strike 1.6 game.
 
 ## Support Me
 
