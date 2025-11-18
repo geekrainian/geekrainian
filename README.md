@@ -15,15 +15,15 @@ This page is available in multiple languages:
 
 - [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — An independent game studio.
 - [KILLINGFLOOR.NET (2015)](https://killingfloor.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Killing Floor Game Community.
-- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/line-strike) — Client-server modification for Counter-Strike 1.6 game.
+- [Line-Strike (2013)](https://gitlab.com/geekrainian/line-strike) — Client-server modification for Counter-Strike 1.6 game.
 
 ## Support Me
 
 Credit/Debit
 
-- [BuyMeACoffee](https://buymeacoffee.com/geekrainian)
-- [Ko-Fi](https://ko-fi.com/geekrainian)
-- [Liberapay](https://liberapay.com/geekrainian)
+- [BuyMeACoffee](https://buymeacoffee.com/geekrainian/?utm_source=github)
+- [Ko-Fi](https://ko-fi.com/geekrainian/?utm_source=github)
+- [Liberapay](https://liberapay.com/geekrainian/?utm_source=github)
 
 Crypto
 

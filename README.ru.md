@@ -15,15 +15,15 @@ Geekr\a/inian
 
 - [CUZUS.GAMES (2024)](https://cuzus.games/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Независимая игровая студия.
 - [KILLINGFLOOR.NET (2015)](https://killingfloor.net/?utm_source=github&utm_medium=profile&utm_campaign=geekrainian) — Сообщество по игре Killing Floor.
-- [Line-Strike (2013)](https://gitlab.com/cuzus-net/goldsrc/line-strike) — Клиент-серверная модификация для игры Counter-Strike 1.6.
+- [Line-Strike (2013)](https://gitlab.com/geekrainian/line-strike) — Клиент-серверная модификация для игры Counter-Strike 1.6.
 
 ## Поддержите Меня
 
 Кредит/Дебет
 
-- [BuyMeACoffee](https://buymeacoffee.com/geekrainian)
-- [Ko-Fi](https://ko-fi.com/geekrainian)
-- [Liberapay](https://liberapay.com/geekrainian)
+- [BuyMeACoffee](https://buymeacoffee.com/geekrainian/?utm_source=github)
+- [Ko-Fi](https://ko-fi.com/geekrainian/?utm_source=github)
+- [Liberapay](https://liberapay.com/geekrainian/?utm_source=github)
 
 Крипта
 
